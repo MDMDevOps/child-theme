@@ -2,7 +2,7 @@
     "name": "mwf/child-theme",
     "description": "Create Wordpress child themes",
     "type": "library",
-    "license": "GPL-2.0+ <http://www.gnu.org/licenses/gpl-2.0.txt>",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Bob Moore",
